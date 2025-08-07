@@ -170,7 +170,7 @@ function renderBoard() {
 function checkWinCondition() {
     if (revealedCount === rows * cols - mineCount) {
         renderBoard();
-        alert("Congratulations! You've cleared the minefield.");
+        alert("Congratulations! 🎉 You've cleared the minefield. 🎊");
         gameOver = true;
     }
 }
