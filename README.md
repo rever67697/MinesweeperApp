@@ -22,7 +22,7 @@ To set up and run the Minesweeper game, follow these steps:
 
 1. **Clone the repository:**
    ```
-   git clone https://github.com/yourusername/minesweeper-nodejs.git
+   git clone https://github.com/rever67697/MinesweeperApp.git
    cd minesweeper-nodejs
    ```
 
